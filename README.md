@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Sergio
 
+As a Full Stack Developer specializing in JavaScript, I'm passionate about using my skills to build user-friendly, highly effective applications. I mainly work with technologies like Node.js, Express.js, React.js and MongoDB. I love solving complex problems, learning new technologies, and bringing ideas to life with code.
+
+- 🔭 I’m currently working on carbon system projects. There is a project using Node.js, Express.js to build an API for handling products, providers, customers. There is also a React UI dashboard for showing various analytics dashboards and products.
+- ⚡ Fun fact: I like to do singing and dancing in my free time.
 <!--
 **sbventura/sbventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
